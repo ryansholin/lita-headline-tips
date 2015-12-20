@@ -1,7 +1,6 @@
 # lita-dewey-quotes
 
-[![Build Status](https://travis-ci.org/PierreRambaud/lita-dewey-quotes.png?branch=master)](https://travis-ci.org/PierreRambaud/lita-dewey-quotes)
-## I'm not sure what to do with the above Travis bit yet. I'll fix this soon.
+[![Build Status](https://travis-ci.org/PierreRambaud/lita-dewey-quotes.png?branch=master)](https://travis-ci.org/PierreRambaud/lita-dewey-quotes) -(I'm not sure what to do with this Travis bit yet. I'll fix this soon.)_
 
 Quotes from John Dewey, adapted from a Yoda quote generator.
 
