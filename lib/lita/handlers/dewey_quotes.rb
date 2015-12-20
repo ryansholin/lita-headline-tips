@@ -15,6 +15,7 @@ module Lita
                 'Still more important is the fact that the human being acquires a habit of learning. He learns to learn.',
                 'A society which is mobile, which is full of channels for the distribution of a change occurring anywhere, must see to it that its members are educated to personal initiative and adaptability.',
                 'Society is one word, but many things.',
+                'Democracy has to be born anew every generation, and education is its midwife.',
                 'Any education given by a group tends to socialize its members, but the quality and value of the socialization depends on the habits and aims of the group.',
                 'But all thinking is research, and all research is native, original, with him who carries it on, even if everybody else in the world already is sure of what he is still looking for. '
                ]
