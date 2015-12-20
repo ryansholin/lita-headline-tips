@@ -1,15 +1,16 @@
-# lita-yoda-quotes
+# lita-dewey-quotes
 
-[![Build Status](https://travis-ci.org/PierreRambaud/lita-yoda-quotes.png?branch=master)](https://travis-ci.org/PierreRambaud/lita-yoda-quotes)
+[![Build Status](https://travis-ci.org/PierreRambaud/lita-dewey-quotes.png?branch=master)](https://travis-ci.org/PierreRambaud/lita-dewey-quotes)
+## I'm not sure what to do with the above Travis bit yet. I'll fix this soon.
 
-Quote from yoda, quickly and easily you can get.
+Quotes from John Dewey, adapted from a Yoda quote generator.
 
 ## Installation
 
-Add lita-yoda-quotes to your Lita instance's Gemfile:
+Add lita-dewey-quotes to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-yoda-quotes"
+gem "lita-dewey-quotes"
 ```
 
 ## Configuration
@@ -19,6 +20,6 @@ None at the moment.
 ## Usage
 
 ```
-You > Yoda quote!
-Lita > That is why you fail.
+You > Dewey quote!
+Lita > Democracy has to be born anew every generation, and education is its midwife.
 ```

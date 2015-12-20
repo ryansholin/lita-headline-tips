@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
-  spec.name          = 'lita-yoda-quotes'
+  spec.name          = 'lita-dewey-quotes'
   spec.version       = '0.1.0'
-  spec.authors       = ['Pierre RAMBAUD']
-  spec.email         = ['pierre.rambaud86@gmail.com']
-  spec.description   = 'Quote from yoda, quickly and easily you can get.'
-  spec.summary       = 'Quote from yoda, quickly and easily you can get.'
-  spec.homepage      = 'https://github.com/PierreRambaud/lita-yoda-quotes'
+  spec.authors       = ['Ryan Sholin']
+  spec.email         = ['ryansholin@gmail.com']
+  spec.description   = 'John Dewey quotes, adapted from lita-yoda-quotes by Pierre Rambaud'
+  spec.summary       = 'Quote from dewey, quickly and easily you can get.'
+  spec.homepage      = 'https://github.com/ryansholin/lita-dewey-quotes'
   spec.license       = 'MIT'
   spec.metadata      = { 'lita_plugin_type' => 'handler' }
 
