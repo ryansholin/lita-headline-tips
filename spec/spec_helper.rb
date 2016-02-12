@@ -5,7 +5,7 @@ SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
 ]
 SimpleCov.start { add_filter '/spec/' }
 
-require 'lita-dewey-quotes'
+require 'lita-headline-tips'
 require 'lita/rspec'
 
 Lita.version_3_compatibility_mode = false
